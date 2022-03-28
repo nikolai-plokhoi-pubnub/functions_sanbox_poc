@@ -1,6 +1,6 @@
 'use strict';
 
-const crypto = require('crypto');
+const crypto = require('src/src/lib/crypto');
 const ALGORITHM = {
     /* EdDSA algorithm definitions */
     ED25519 : {
